@@ -1,0 +1,16 @@
+# Mac OS files
+.DS_Store
+
+# Skill binaries
+*.skill
+
+# Python/Script artifacts
+__pycache__/
+*.pyc
+
+# LaTeX artifacts (if any get in)
+*.aux
+*.log
+*.out
+*.pdf
+*.toc
